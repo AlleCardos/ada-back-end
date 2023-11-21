@@ -1,0 +1,13 @@
+{
+  "_fabricante": "teste",
+  "_modelo": "teste",
+  "_ano": 20,
+  "_cor": "teste",
+  "_tipoMotor": "",
+  "_transmissao": "",
+  "_tipoCombustivel": "",
+  "_quilometragem": 0,
+  "_tipoCarteira": "A",
+  "_alugado": false,
+  "_cliente": {}
+}
